@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: #f0ec0f;
+    color: rgb(27, 25, 25);
+    padding: 100px 0;
+    text-align: center;
+    font-style: Bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  
+  .brand-icon {
+      font-size: 100px;
+  }
